@@ -1,0 +1,39 @@
+h3{
+    font-size: 40px;
+    text-decoration: underline;
+    /* text-decoration: overline; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+   font-family: 'Courier New', Courier, monospace;
+}
+.display{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    border: 20px solid rgb(217, 30, 67);
+    margin: 30px;
+    text-align: justify;
+    padding: 20px;
+    box-shadow: 10px 10px 15px rgb(115, 95, 99);
+    border-radius: 5px;
+}
+.bgimg{
+    /* background-image: url('../');**ager foldar dia img nite hoile */
+    background-image: url('travel.jpg.jpeg');
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: round; */
+   /* background-size: cover; */
+   background-size: contain;
+   /* background-position: top; */
+    padding: 100px;
+    background:color(srgb rgba(221, 77, 77, 0.845) green blue) ;
+    
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+    background-color:rgb(239, 155, 172);
+    border: 10px solid rgb(239, 155, 172);
+    box-shadow: 10px 10px 20px rgb(153, 100, 111);
+}
